@@ -4,6 +4,7 @@ title: '[Bug]: '
 labels: bug
 body:
   - type: input
+    id: contact
     attributes:
       value: some info
   - type: markdown
